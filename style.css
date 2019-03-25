@@ -1,13 +1,27 @@
-#rect {background-color: rgb(248, 240, 250);
+#rect {
+    background-color: rgb(248, 240, 250);
     width: 250px; 
     height: 600px;
     padding-left: 15px;
-    padding-top: 15px;}
+    padding-top: 15px;
+}
 #sq {
     width: 100px;
     height: 100px;
-    background-color: black;}
-    .sq1 {opacity: 1.0;}
-    .sq2 {opacity: 0.75;}
-    .sq3 {opacity: 0.5;}
-    .sq4 {opacity: 0.25;}
+    background-color: black;
+    }
+    .sq1 {
+        opacity: 1.0;
+    }
+    .sq2 {
+        opacity: 0.75;
+        margin-top: 10px;  
+    }
+    .sq3 {
+        opacity: 0.5;
+        margin-top: 10px;
+    }
+    .sq4 {
+        opacity: 0.25;
+        margin-top: 10px;
+    }
